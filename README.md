@@ -1,7 +1,26 @@
-# scalable product manager
-Provides a secure scalable cloud based solution to upload and view store products.
+# Scalable Product Manager
 
-** SETUP **
+*Provides a secure scalable cloud based solution to upload and view store products.*
+
+** Example **
+
+0 products
+![alt text](https://github.com/sf-dub/project_image_assets/blob/8417b08f6828e6cfb017d5f88ad3a8853b84abf1/productmanager1.jpg)
+
+
+Page 1 of 2
+![alt text](https://github.com/sf-dub/project_image_assets/blob/8417b08f6828e6cfb017d5f88ad3a8853b84abf1/productmanager2.jpg)
+
+
+Page 2 of 2
+![alt text](https://github.com/sf-dub/project_image_assets/blob/8417b08f6828e6cfb017d5f88ad3a8853b84abf1/productmanager3.jpg)
+
+
+End of page with dynamically generated pie charts
+![alt text](https://github.com/sf-dub/project_image_assets/blob/8417b08f6828e6cfb017d5f88ad3a8853b84abf1/productmanager4.jpg)
+
+
+## SETUP
 
 1) Create an empty database named 'crm'
 	- If your hosting provider prefixes this name you must change 'crm' in db.php
@@ -20,7 +39,7 @@ Provides a secure scalable cloud based solution to upload and view store product
 
 5) Run the application by going to the products directory - index.php will run by default e.g. yourwebsite.com/admin/product/
 
-** Documentation **
+### Documentation
 
 This project is a one page web application written in php, html, css and javascript.
 It provides a secure scalable cloud based solution to upload and view store products.
