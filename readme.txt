@@ -1,5 +1,10 @@
-** COPYRIGHT NOTICE: THIS CODE CANNOT BE USED FOR COMMERCIAL USE WITHOUT A LICENCE **
-** Contact: admin@livenewsnow.org **
+** Documentation **
+
+This project is a one page web application written in php, html, css and javascript.
+It provides a secure scalable cloud based solution to upload and view store products.
+It is written procedurally using one php object which is created in db.php.
+This application could be refactored to include a frontend framework or more php objects.
+The architecture of this web application allows it to handle unlimited products.
 
 ** SETUP **
 
@@ -19,16 +24,6 @@
 	- Make sure you do not use the database username and password for security reasons.
 
 5) Run the application by going to the products directory - index.php will run by default e.g. yourwebsite.com/admin/product/
-
-** Documentation **
-
-This project is a one page web application written in php, html, css and javascript.
-It provides a secure scalable cloud based solution to upload and view store products.
-It is written proceedurally using one php object which is created in db.php and has a short life-cycle.
-This application could be refactored to include a frontend framework or more php objects.
-The architecture of this web application allows it to handle unlimited products.
-The reason for using minimal objects is performance related.
-
 
 
  
